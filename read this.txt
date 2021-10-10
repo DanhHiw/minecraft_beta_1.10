@@ -1,0 +1,10 @@
+
+please install ursina
+ how to install?
+
+   open cmd
+  
+   type: pip install ursina
+
+
+ursina only supports python 3.6 and above
